@@ -1,7 +1,7 @@
 # 📦 Case Study: Phân tích độ nhạy tham số (Parameter Sensitivity) trong Apriori
 
 ## 👥 Thông tin Nhóm
-- **Nhóm:** (Điền tên nhóm)
+- **Nhóm:** 13
 - **Thành viên:**
   - Nguyễn Hà Phương  
   - Dương Thị Hoài  
