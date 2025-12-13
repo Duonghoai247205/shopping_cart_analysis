@@ -100,10 +100,10 @@ rules_2 = association_rules(frequent_itemsets_2, metric="lift", min_threshold=1.
 ```
 ## 5. Trực quan hóa (Visualization)
 
-![Network Graph](images/network.png)  
+![Network Graph](images/hinh1.png)  
 *Hình 1: Mạng lưới sản phẩm thể hiện sự hình thành các cụm và Product Hub.*
 
-![Top Lift Rules](images/top_lift.png)  
+![Top Lift Rules](images/hinh2.png)  
 *Hình 2: Top các luật kết hợp có Lift cao nhất ở từng kịch bản tham số.*
 
 ---
